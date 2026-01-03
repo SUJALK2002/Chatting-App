@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(167, 234, 136);
+}
+
+.divv{
+    
+    background-color: rgb(193, 221, 156);
+    
+}
+
+.di{
+    background-color: rgb(242, 242, 220);
+    border: 2px solid black;
+    border-radius: 5%;
+    padding-left: 30px;
+}
